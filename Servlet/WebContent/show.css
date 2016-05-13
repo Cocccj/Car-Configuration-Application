@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+
+h1 {
+	color: rgb(50, 90, 150);
+	font-size: 22px;
+}
+
+table {
+	table-layout: auto;
+	border-color: rgb(100, 100, 100);
+	border-width: 1px;
+	border-style: solid;
+	border-collapse: separate;
+}
+
+th, td {
+	border-color: rgb(100, 100, 100);
+	border-width: 1px;
+	border-style: solid;
+	border-collapse: separate;
+	padding: 0.2em;
+	text-align: left;
+}
+
+td.midbold{
+    text-align: center;
+    font-weight: bold;
+}
+
+td.input, td.price {
+	text-align: right;
+}
