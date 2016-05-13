@@ -4,7 +4,7 @@ This project is used to build a car configuration application:
 Please first start the server by running the driver class in the server project, and then use client to upload properties files by running the driver class in the client project. Next, start the servlet by running ModelList.java.
 
 
-[Folder Project1Unit5Servlet]
+[Folder Servlet]
 
 	package client:
 		1) CarModelOptionsIO.java - Used for Car IO operations
@@ -52,7 +52,7 @@ Please first start the server by running the driver class in the server project,
 	Toyota.properties - properties file
 	Toyota2.properties - properties file
 
-[Folder Project1Unit5Server]
+[Folder Server]
 
 	package server:
 		1) AutoServer.java - Interface
